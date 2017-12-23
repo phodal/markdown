@@ -50,3 +50,12 @@ stepping
 Home: https://github.com/phodal/stepping
 
 >  a tools for code design, event storming, domain model generate.
+
+mole
+---
+
+Home: https://github.com/phodal/mole
+
+> A GitHub-base Cloud Note, design for open & free GitHub User.
+
+
