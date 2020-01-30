@@ -58,4 +58,43 @@ Home: https://github.com/phodal/mole
 
 > A GitHub-base Cloud Note, design for open & free GitHub User.
 
+Xizhi
+---
+
+Home: https://github.com/phodal/xizhi 
+
+Deploy: https://write.phodal.com/
+
+> xizhi（惜字）editor is a tools for Chinese writer, to make articles strong & powerful.
+
+Content Helper
+---
+
+Home: https://github.com/phodal/blogen
+
+Deploy: https://content.phodal.com/
+
+> Content Helper is a toolbox for create content, like title generator.
+
+Phodit
+---
+
+Home: https://github.com/phodal/phodit
+
+Portal: https://www.phodit.com/
+
+> Phodal's markdown/ebook editor with MicroFrontend & Web Components
+
+Inception
+---
+
+Home: https://github.com/phodal/inception
+
+Deploy: https://inception.phodal.com/
+
+> Inception includes a markdown mindmap tools to split
+
+
+
+
 
