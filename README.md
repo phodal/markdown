@@ -95,6 +95,12 @@ Deploy: https://inception.phodal.com/
 > Inception includes a markdown mindmap tools to split
 
 
+ebook-boilerplate
+---
+
+Home: https://github.com/phodal/ebook-boilerplate
+
+> markdown一步生成电子书: 支持PDF、Mobi、EPUB格式
 
 
 
